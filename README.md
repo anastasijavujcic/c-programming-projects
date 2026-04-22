@@ -13,9 +13,13 @@ A basic application for storing and managing passwords, focusing on file handlin
 ### Blackjack Game
 A console-based implementation of the Blackjack card game, including game logic, scoring, and user interaction.
 
-### Additional Project
-A small programming project developed to practice core C programming concepts.
+## Crossy Frog
+This project focuses on fundamental programming concepts such as control structures, functions, and problem-solving in C.
 
+## Features
+- Character movement
+- Collision detection
+- Scoring system
 ## Technologies
 - C
 
